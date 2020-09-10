@@ -1,0 +1,21 @@
+const Discord = require('discord.js');
+
+const client = new Discord.Client();
+
+client.once('ready', () => {
+    console.log('SCP-BOT is online!');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+client.login('NzUzMjA5NjYwNjM0MzAwNDQ3.X1i3KQ.drvHcFW2G1jcuXthJkfjcEZuo-0')
